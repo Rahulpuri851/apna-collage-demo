@@ -1,2 +1,3 @@
-# apna-collage-demo
+# apnacollage-demo
 This is my first git  repository .
+author rahul puri
